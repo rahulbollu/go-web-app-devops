@@ -3,6 +3,7 @@
 name: CI/CD
 
 # Exclude the workflow to run on changes to the helm chart
+# adding a new line for testing CI part
 on:
   push:
     branches:
